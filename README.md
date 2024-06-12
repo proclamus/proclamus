@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Patrick. Since I was a little boy I have great interest in technologies and that's why I graduated in Information Systems from UFF.
+My name is Patrick. Since I was a little boy I have great interest in technologies and that's why I graduated in Information Systems from "Universidade Federal Fluminense", in Brazil.
 
 - 🔭 I’m currently working as FullStack using Java, C#, python, HTML, CSS, Javascript, React.
 - 🌱 I wanna learn Flutter in the future and master my knowledge with C#.
